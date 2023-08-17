@@ -11,7 +11,5 @@ The Hough transform is a feature extraction technique used in image analysis, co
 Daughman’s algorithm
 Daugman’s algorithm is the best for recognizing iris. The algorithm has four steps such as applying Gaussian filter, initialize center and radius, Construct circle with given center and radius, Calculate the circle gradient. The important step in this algorithm is to find out the maximum gradient. Once the maximum gradient is found, the boundary becomes iris boundary.
 Gabor Wavelet Transform
-Gabor wavelets are used for encoding and feature extraction. The method of encoding iris patterns that is used in all current public deployments of iris recognition technology is based on a set of mathematical functions called Gabor wavelets that analyze and extract the unique texture of an iris. They encode it in terms of its phase structure at multiple scales of analysis.
-![image](https://user-images.githubusercontent.com/38567191/194850742-9ec19444-7d6f-4e6e-ac81-c5fc8c051af2.png)
-
+Gabor wavelets are used for encoding and feature extraction. The method of encoding iris patterns that is used in all current public deployments of iris recognition technology is based on a set of mathematical functions called Gabor wavelets that analyze and extract the unique texture of an iris. 
 
